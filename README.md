@@ -41,4 +41,4 @@ Vicent Nos Ripolles, Sequence Graph
 FORMULA a(n) = (p1 * p2) - ((p1 -1) * (p2 - 1))
 
 
-EXAMPLE With p=3 and q=3, (3*3) - (2*2) = 5. With p=3 q=5 (3*5) - (2*4) = 7. With p=5 q=5 (5*5) - (4*4) = 9.
+EXAMPLE With p=3 and q=3, (3 * 3) - (2 * 2) = 5. With p=3 q=5 (3 * 5) - (2*4) = 7. With p=5 q=5 (5 * 5) - (4 * 4) = 9.
