@@ -15,7 +15,7 @@ numbers, and this common cycles among numbers.
 To build the sequence you just need to get 2 prime numbers, and make the product ,
 after that you make the same with the same prime numbers discounting 1 to each
 one, the sequence contains the difference between them, each time you get one
-difference , you can make the next, with the next combination, (3*3)-(2*2), 3*5 - (2*4) ...
+difference , you can make the next, with the next combination, (3 * 3)-(2 * 2), 3 * 5 - (2 * 4 ) ...
 
 The sequence can be divided in sub sequences with different longitudes, this
 longitudes are prime numbers, and is a way to group numbers by this cycle. The
@@ -35,7 +35,6 @@ number, this allow to make groups with numbers with similar properties in factor
 terms.
 
 
-Vicent Nos Ripolles, Sequence Graph
 
 
 FORMULA a(n) = (p1 * p2) - ((p1 -1) * (p2 - 1))
