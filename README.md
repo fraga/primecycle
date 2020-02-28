@@ -16,8 +16,8 @@ I was trying to register the serie in OEIS , but seems nobody understand. I hope
 15, 17, 19, 23, 25, 29, 31, 35, 41, 43, 49, 53, 55, 19, 21, 23, 27, 29, 33, 35, 39, 45, 47, 53,
 57, 59, 63, 69, 75, 77, 21, 23, 25, 29, 31, 35, 37, 41, 47, 49, 55, 59, 61, 65, 71, 77 
 
-The sequence represents the difference between, the prime products (q*p) and his
-totient (q-1*p-1). The sequence allow us to identify primes with the same
+The sequence represents the difference between, the prime products (q * p) and his
+totient (q - 1 * p - 1). The sequence allow us to identify primes with the same
 fraction cycle , and is composed by semi prime numbers and prime numbers. This
 can be interesting for cryptography purposes, or prime factorization
 investigation, have some properties who allow to represent graphically the prime
