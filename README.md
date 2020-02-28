@@ -48,9 +48,6 @@ primx x= map (primes !!) [1..(fromInteger x)]
 
 sp x =  concat (map (\x-> ( map ( \y-> [x*y,(x-1)*(y-1), (x*y)-((x-1)*(y-1)) ] ) (primx x)) ) (primx x))
 
-`````
-
-----
 
 cycleserie x = map last (sp x)
 
