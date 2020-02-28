@@ -464,9 +464,43 @@ Prime 301460843
 [552708655,10001,21671,10003,114253,251749,10006,10007,2673109,10009,1913717,57581,17521,66371,21697,10015,2154379,1145701,10018,10019,411989,10021,10022,42919,356747,38897,93019,10027,103223,10029,208211,10031,30178327,10033,46883,140713,90131,10037,111613,10039,331069,10041,10042,54863,47652487,340751,10046,45901,23405089,10049,881653,70127,81493,25691,36103,10055,304613,10057,52537,34967,74947,10061,822977,10063,2832091,225761,30917,10067,61247,10069,212053,129431,54137,10073,144467,318463,89081,10077,10078,10079,7268079427,10081,58291,10083,17647,10085,157727,50959,392947,179891,29261,10091,535949,10093,205279,31631,279533,10097,8024867,10099,571357]
 
 
+# Influences
 
+Bill Gosper
+
+Satoshi Nakamoto
+
+CypherPunks
+
+Isaac Asimov
+
+Jesus Huerta De Soto
+
+Rage Against The Machine
+
+# Donations
+
+ETH 0x97a9dd74581bC80e2c4EdD66795754eE0a24E469
+
+BTC 1Hda9gGGJHWPviCtStcoVn8CtivEwWrC23
+Intellectual property and license rights
+
+All rights are reserved by the authors,forbidden the use of free software based in companies or organizations with proffit purposes, forbidden the use of the information for comercial purposes, concat with authors for comercial rights .
+
+Mandatory authors mentions in posts, publications and software based on this paper
 
 
 # Contributors
 
 All contributors are welcome , please commit your changes
+
+# Authors
+
+Hacker Peterthebanker
+
+MathMax, who taught me everything I know
+
+
+# Why ?
+
+I hope somebody get profitable use of this information to end the world as we know it
