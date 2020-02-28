@@ -503,4 +503,4 @@ MathMax, who taught me everything I know
 
 # Why ?
 
-I hope somebody get profitable use of this information to end the world as we know it
+I hope somebody get profitable use of this information to end the world as we know it. And was funny discover how are working the numbers
