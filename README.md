@@ -126,7 +126,7 @@ CF = Continued fraction
 ----
 
 
-# Factorize or Crack everything
+# Factorize or Crack everything (Just in theory for now, we need to design better software)
 
 ----
 
