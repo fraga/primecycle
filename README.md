@@ -2,7 +2,7 @@
 
 A experimental project and library writed in Haskell to explore the prime cycles based on continued fractions of 1/n
 
-I was trying to register the serie in OEIS , but seems nobody understand. I hope have more lucky with this repository. The library is just an experiment. Im glad to receive any feedback, thanks, is my main motivation to publish, find other crazy people who wants to share his experiments to solve this awesome problem . For now is just a demo, aren't valid for big numbers, im working on finish a stable version to publish as soon as posible, thanks. Questions are welcome .
+I was trying to register the serie in OEIS , but seems nobody understand. I hope have more lucky with this repository. The library is just an experiment. Im glad to receive any feedback, is my main motivation to publish, find other crazy people who wants to share his experiments to solve this awesome problem . For now is just a demo, aren't valid for big numbers, im working on finish a stable version to publish as soon as posible, thanks. Questions are welcome .
 
 
 ![Image of Graph](./graph.png)
