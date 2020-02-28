@@ -506,3 +506,6 @@ Special thanks to MathMax, who taught me everything I know, very patiently becau
 # Why ?
 
 I hope somebody get profitable use of this information to end the world as we know it. And was funny discover how are working the numbers
+
+Other reason is protection in the case this works in the future.
+
