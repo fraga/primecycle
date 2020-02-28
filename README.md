@@ -1,5 +1,13 @@
+# What is this ?
+
+A experimental project and library writed in Haskell to explore the prime cycles based on continued fractions of 1/n
+
+I was trying to register the serie in OEIS , but seems nobody understand. I hope have more lucky with this repository. The library is just an experiment. Im glad to receive any feedback, thanks, is my main motivation to publish, find other crazy people who wants to share his experiments to solve this awesome problem . For now is just a demo, aren't valid for big numbers, im working in finish a stable version to publish as soon as posible, thanks. Questions are welcome .
+
 
 ![Image of Graph](./graph.png)
+
+
 
 5, 7, 9, 7, 9, 11, 15, 17, 9, 11, 13, 17, 19, 23, 25, 13, 15, 17, 21, 23, 27, 29, 33, 39, 41, 47,
 15, 17, 19, 23, 25, 29, 31, 35, 41, 43, 49, 53, 55, 19, 21, 23, 27, 29, 33, 35, 39, 45, 47, 53,
@@ -36,6 +44,14 @@ terms.
 
 
 
+
+FORMULA a(n) = (p1 * p2) - ((p1 -1) * (p2 - 1))
+
+
+EXAMPLE With p=3 and q=3, (3 * 3) - (2 * 2) = 5. With p=3 q=5 (3 * 5) - (2*4) = 7. With p=5 q=5 (5 * 5) - (4 * 4) = 9.
+
+
+
 # Diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 ..
 
 
@@ -63,20 +79,18 @@ splitcycle x s o
                 
                  series =  [out] ++ o
 
-----
 
-
-FORMULA a(n) = (p1 * p2) - ((p1 -1) * (p2 - 1))
-
-
-EXAMPLE With p=3 and q=3, (3 * 3) - (2 * 2) = 5. With p=3 q=5 (3 * 5) - (2*4) = 7. With p=5 q=5 (5 * 5) - (4 * 4) = 9.
+``````
 
 
 
 # Getting common factors numbers in the serie directly to N cycle group
 
+`````
+
 ncommons 2047 (ceiling (sqrt 2047))
+
 
 [(23,253),(23,529),(23,575),(23,713),(23,1081),(23,1219),(23,1403),(23,1541),(89,445),(89,623),(89,979),(89,1513)]
 
-
+``````
