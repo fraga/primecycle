@@ -55,10 +55,8 @@ EXAMPLE With p=3 and q=3, (3 * 3) - (2 * 2) = 5. With p=3 q=5 (3 * 5) - (2*4) = 
 
 
 
-# Diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 ..
+Diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 .. who are realted with the cycle of the numbers what contains.
 
-
-# Haskell Code
 
 `````
 
