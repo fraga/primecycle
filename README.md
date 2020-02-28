@@ -35,6 +35,10 @@ number, this allow to make groups with numbers with similar properties in factor
 terms.
 
 
+
+# Diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 ..
+
+
 # Haskell Code
 
 
@@ -44,16 +48,23 @@ primx x= map (primes !!) [1..(fromInteger x)]
 sp x =  concat (map (\x-> ( map ( \y-> [x*y,(x-1)*(y-1), (x*y)-((x-1)*(y-1)) ] ) (primx x)) ) (primx x))
 
 
-# diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 ...
+---- Haskell
 
-nosserie x = map last (sp x)
+cycleserie x = map last (sp x)
 
 splitcycle x s o
+
         | length rest == 0 = reverse series
+        
         | otherwise = splitcycle rest (s+1) series
+
         where
+        
                 (out,rest) = splitAt (fromInteger (primes !! (fromInteger s))) ( x)
-                series =  [out] ++ o
+                
+                 series =  [out] ++ o
+
+----
 
 
 FORMULA a(n) = (p1 * p2) - ((p1 -1) * (p2 - 1))
