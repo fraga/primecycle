@@ -63,7 +63,7 @@ EXAMPLE With p=3 and q=3, (3 * 3) - (2 * 2) = 5. With p=3 q=5 (3 * 5) - (2*4) = 
 
 
 
-# Getting common factors numbers in the serie
+# Getting common factors numbers in the serie directly to N cycle group
 
 ncommons 2047 (ceiling (sqrt 2047))
 
