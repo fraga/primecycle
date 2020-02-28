@@ -500,7 +500,7 @@ All contributors are welcome , please commit your changes
 
 Hacker Peterthebanker
 
-MathMax, who taught me everything I know
+Special thanks to MathMax, who taught me everything I know, very patiently because I am very annoying
 
 
 # Why ?
