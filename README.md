@@ -361,7 +361,7 @@ The result always is a semiprime number (2 prime factors). All numbers can be co
 
 ----
 
-As you can see in this operation, the result of the product change dependending the order of the factors. This allows to make operations with numbers keeping all information in the number.
+As you can see in this operation, the result of the product change depending the order of the factors. This allows to make operations with numbers keeping all information in the number.
 
 
 ## Change decimal base to base prime product
