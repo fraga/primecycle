@@ -44,7 +44,7 @@ primx x= map (primes !!) [1..(fromInteger x)]
 sp x =  concat (map (\x-> ( map ( \y-> [x*y,(x-1)*(y-1), (x*y)-((x-1)*(y-1)) ] ) (primx x)) ) (primx x))
 
 
-# diferences between n and totient , generate a serie with different primes longitdes , 3 , 5, 7, 11 ...
+# diferences between n and totient , generate a serie with different primes longitudes , 3 , 5, 7, 11 ...
 
 nosserie x = map last (sp x)
 
