@@ -483,7 +483,9 @@ Rage Against The Machine
 ETH 0x97a9dd74581bC80e2c4EdD66795754eE0a24E469
 
 BTC 1Hda9gGGJHWPviCtStcoVn8CtivEwWrC23
-Intellectual property and license rights
+
+
+# Intellectual property and license rights
 
 All rights are reserved by the authors,forbidden the use of free software based in companies or organizations with proffit purposes, forbidden the use of the information for comercial purposes, concat with authors for comercial rights .
 
